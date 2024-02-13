@@ -25,6 +25,21 @@ To get started with Little Lemon:
 - Explore our offerings
 - Make a reservation and treat yourself to a delightful experience!
 
+## Results
+
+### Home page
+![home](https://github.com/Ibrahim-Naseef/DjangoFramework-LittleLemonWebsite/assets/156147657/ee0d8acf-d292-421d-bdd7-d5204e9dc2db)
+
+### About page
+![about](https://github.com/Ibrahim-Naseef/DjangoFramework-LittleLemonWebsite/assets/156147657/baf08981-2fb0-44e9-9684-bbf9dfdf0d24)
+
+### Menu page
+![menu](https://github.com/Ibrahim-Naseef/DjangoFramework-LittleLemonWebsite/assets/156147657/50767b26-7fd6-40f4-98b7-d9a59609d008)
+
+### Bookings page
+![Booking](https://github.com/Ibrahim-Naseef/DjangoFramework-LittleLemonWebsite/assets/156147657/0c14b7f6-3df2-46c6-ad3a-b84e2b54f1a4)
+
+
 ### Prerequisites
 - Python 3.7 or above installed on your machine
 - Pip package manager
@@ -66,3 +81,4 @@ To start the Little Lemon server locally, run the following command:
 python manage.py runserver
 
 For any queries or suggestions, reach out to me
+```
